@@ -1,0 +1,1 @@
+# Triangle-Character-Pattern
